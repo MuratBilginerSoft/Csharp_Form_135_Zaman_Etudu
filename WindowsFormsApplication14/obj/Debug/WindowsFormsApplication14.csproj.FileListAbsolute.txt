@@ -1,0 +1,30 @@
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\HİKMET BAYINDIR\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\mrt_b\Downloads\WindowsFormsApplication14\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\WindowsFormsApplication14\Zaman Etüdü 2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\WindowsFormsApplication14\Zaman Etüdü 2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\WindowsFormsApplication14\Zaman Etüdü 2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\47 Zaman Etüdü v2.0\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
